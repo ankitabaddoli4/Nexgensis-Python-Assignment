@@ -1,0 +1,2 @@
+# FastBox Mystery Delivery System
+# Uses Python standard library only.
